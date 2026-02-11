@@ -105,7 +105,7 @@
 
 ## ER diagram
 
-![ER diagram](./ERdiagramm.png "ER diagram")
+![ER diagram](./p4_ERdiagramm.png "ER diagram")
 
 ## database schema
 
@@ -222,8 +222,8 @@ WHERE
 
 ```
 
-![tables](./tables01.png "tables")
-![tables](./tables02.png "tables")
+![tables](./p4_tables01.png "tables")
+![tables](./p4_tables02.png "tables")
 
 ## database creating script
 
